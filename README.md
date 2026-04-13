@@ -14,9 +14,9 @@ Vide tutoriais do PI.
 
 ## ByteCraft
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Nicolas Coimbra De Campos</a>, <a href="https://www.linkedin.com/in/victorbarq/">Kauê Alves Andrade</a>, <a href="https://www.linkedin.com/in/victorbarq/">Henrique Mathias Bondesan</a>, <a href="https://www.linkedin.com/in/victorbarq/">Erick Akauan Osawa Nishino Chinen</a>, <a href="https://www.linkedin.com/in/victorbarq/">André Amadeo</a>
+## Integrantes: <a>Nicolas Coimbra De Campos</a>, <a>Kauê Alves Andrade</a>, <a>Henrique Mathias Bondesan</a>, <a>Erick Akauan Osawa Nishino Chinen</a>, <a>Joel Rick Condori Villca</a>, <a>André Amadeo</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/francisco-escobar/"> Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/trencher/">Joao Francisco Trencher Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/gillespleite/">Pedroza Leite</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/francisco-escobar/"> Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/trencher/">Joao Francisco Trencher Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/gillespleite/">Gilles Pedroza Leite</a>
 
 ## Descrição
 
