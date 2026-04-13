@@ -14,9 +14,9 @@ Vide tutoriais do PI.
 
 ## ByteCraft
 
-## Integrantes: <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Nicolas Coimbra De Campos</a>, <a href="https://www.linkedin.com/in/victorbarq/">Kauê Alves Andrade</a>, <a href="https://www.linkedin.com/in/victorbarq/">Henrique Mathias Bondesan</a>, <a href="https://www.linkedin.com/in/victorbarq/">Erick Akauan Osawa Nishino Chinen</a>, <a href="https://www.linkedin.com/in/victorbarq/">André Amadeo</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/francisco-escobar/"> Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/trencher/">Joao Francisco Trencher Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/gillespleite/"Gilles Pedroza Leite</a>
 
 ## Descrição
 
@@ -26,11 +26,16 @@ Vide tutoriais do PI.
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Axis Defense é um survival shooter com ritmo acelerado, ambientado no espaço profundo. O jogador assume o papel de tripulante da nave estelar Axis, que foi interceptada por uma frota de naves alienígenas inimigas. Sem possibilidade de fuga, a premissa central é resistir ao cerco o maior tempo possível, defendendo a embarcação até que a fuga seja possível.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Atualmente o projeto apresenta as mecânicas de movimentação, disparo e naves inimigas de forma básica para testes.
 <br><br>
-May the force be with you!
+Outras informações:
+<ul>
+  <li>Jogo Casual/Arcade desenvolvido para Desktop</li>
+  <li>Ser desenvolvido na engine Unity (v. 6000.0.38f1)</li>
+  <li>Foco no aspecto mecânico</li>
+</ul>
 <br><br>
 
 ## 🛠 Estrutura de pastas
