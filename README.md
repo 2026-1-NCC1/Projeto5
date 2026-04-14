@@ -85,7 +85,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 
   
 
-Aqui estão as referências usadas no projeto.
+Referencias utilizadas para desenvolver o Game.
 
   
 
@@ -93,3 +93,5 @@ Aqui estão as referências usadas no projeto.
 2. <https://www.youtube.com/watch?v=u-FEqXpADHw&list=PLcsy4yqfYDSq9gsJcqb3dsPcLp8L_Mpv4>
 3. <https://www.youtube.com/watch?v=PKMm-cHe56g>
 4. <https://www.youtube.com/watch?v=VEnZzwW_OJM>
+5. <https://www.youtube.com/watch?v=THnivyG0Mvo>
+6. <https://www.youtube.com/watch?v=537B1kJp9YQ>
