@@ -18,8 +18,6 @@
 <p align="center">
 <img src="imagens/Axis LOGO.png" alt="Axis Defense" border="0">
   <br>
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
 
 
 Axis Defense é um survival shooter com ritmo acelerado, ambientado no espaço profundo. O jogador assume o papel de tripulante da nave estelar Axis, que foi interceptada por uma frota de naves alienígenas inimigas. Sem possibilidade de fuga, a premissa central é resistir ao cerco o maior tempo possível, defendendo a embarcação até que a fuga seja possível.
