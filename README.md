@@ -60,12 +60,13 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 ```sh  
 # Passos para rodar o projeto  
 
-1. Baixe o projeto em <a href="https://github.com/2026-1-NCC1/Projeto5">Axis Defense </a>
-1. Abra o Unity Hub  
-2. Clique em "Open" ou "ADD"  
-3. Selecione a pasta do projeto que deseja abrir  
-4. abra o projeto  
-5. clique em Play no Unity
+1. Baixe o projeto no Git Hub oficial
+2. Descompacte a pasta
+3. Abra o Unity Hub  
+4. Clique em "Open" ou "ADD"  
+5. Selecione a pasta do projeto que deseja abrir  
+6. Abra o projeto  
+7. Clique em Play no Unity
 ```
   
 
