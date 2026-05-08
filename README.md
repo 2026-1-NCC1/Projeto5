@@ -7,7 +7,7 @@
 
 # Axis Defense
 
-## ByteCraft
+## Khene Developers Game
 
 ## Integrantes: <a  href="">Nicolas Coimbra De Campos</a>, <a href="">Kauê Alves Andrade</a>, <a>Henrique Mathias Bondesan</a>, <a>Erick Akauan Osawa Nishino Chinen</a>, <a>Joel Rick Condori Villca</a>, <a>André Amadeo</a>
 
