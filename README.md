@@ -69,7 +69,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
   
 
 ## 📋 Licença/License
-
+<a href="https://github.com/2026-1-NCC1/Projeto5">Axis Defense</a> © 2026 by <a href="https://github.com/kaueAlvesCS">Kauê Alvez, Nicolas Coimbra, Henrique Bondesan, Erick Akauan e Joel Rick</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 
   
