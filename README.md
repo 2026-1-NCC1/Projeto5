@@ -7,7 +7,7 @@
 
 # Axis Defense
 
-## Khene Developers Game
+## Kjhen Developers Game
 
 ## Integrantes: <a  href="https://www.linkedin.com/in/nicolas-coimbra-4b345b3ab?trk=contact-info">Nicolas Coimbra De Campos</a>, <a href="https://www.linkedin.com/in/kau%C3%AA-alves-andrade-786515386?trk=universal-search-cluster">Kauê Alves Andrade</a>, <a>Henrique Mathias Bondesan</a>, <a>Erick Akauan Osawa Nishino Chinen</a>, <a>Joel Rick Condori Villca</a>, <a>André Amadeo</a>
 
