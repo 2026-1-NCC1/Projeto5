@@ -32,12 +32,14 @@ Outras informações:
 </ul>
 <br><br>
 
-## 🛠 Como Rodar
+## 🛠 Como Rodar e informações
 
 -Raiz<br>
 |<br>
 |-->documentos<br>
 &emsp;|-->Projeto de Extensão - COM Empresa <br>
+&emsp;|-->Banner<br>
+&emsp;|-->Executável do jogo no Read.me<br>
 
 &emsp;|-->Entrega 1<br>
 &emsp;&emsp;|-->Calculo<br>
