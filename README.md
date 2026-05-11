@@ -32,7 +32,7 @@ Outras informações:
 </ul>
 <br><br>
 
-## 🛠 Estrutura de pastas
+## 🛠 Como Rodar
 
 -Raiz<br>
 |<br>
