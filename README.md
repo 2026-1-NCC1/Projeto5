@@ -42,7 +42,7 @@ Outras informações:
 &emsp;|-->Entrega 1<br>
 &emsp;&emsp;|-->Calculo<br>
 &emsp;&emsp;|-->Algoritmos<br>
-&emsp;&emsp;|-->Projeto Interdisciplina<br>
+&emsp;&emsp;|-->Projeto Interdisciplinar<br>
 &emsp;&emsp;|-->Ética<br>
 &emsp;|-->Entrega 2<br>
 &emsp;&emsp;|-->Calculo<br>
