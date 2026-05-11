@@ -37,17 +37,34 @@ Outras informações:
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+&emsp;|-->Projeto de Extensão - COM Empresa <br>
+
+&emsp;|-->Entrega 1<br>
+&emsp;&emsp;|-->Calculo<br>
+&emsp;&emsp;|-->Algoritmos<br>
+&emsp;&emsp;|-->Projeto Interdisciplina<br>
+&emsp;&emsp;|-->Ética<br>
+&emsp;|-->Entrega 2<br>
+&emsp;&emsp;|-->Calculo<br>
+&emsp;&emsp;|-->Algoritmos<br>
+&emsp;&emsp;|-->Ética<br>
+
 |-->imagens<br>
+
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+&emsp;|-->Entrega 1<br>
+&emsp;&emsp;|-->Backend<br>
+&emsp;&emsp;&emsp;|-->Frontend<br>
+&emsp;&emsp;&emsp;&emsp;| AxisDefense<br>
+
+&emsp;|-->Entrega 2<br>
+&emsp;&emsp;|-->Backend<br>
+&emsp;&emsp;&emsp;|-->Frontend<br>
+&emsp;&emsp;&emsp;&emsp;| AxisDefense<br>
+
+
 |readme.md<br>
+|gitignore.
 
 ## 💻 Configuração para Desenvolvimento
 
