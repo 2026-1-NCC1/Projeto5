@@ -32,7 +32,7 @@ Outras informações:
 </ul>
 <br><br>
 
-## 🛠 Como Rodar e informações
+## 🛠 Como Rodar e Instalação
 
 -Raiz<br>
 |<br>
