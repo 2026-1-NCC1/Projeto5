@@ -14,6 +14,7 @@
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/francisco-escobar/"> Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz Do Nascimento</a>, <a href="https://www.linkedin.com/in/trencher/">Joao Francisco Trencher Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/gillespleite/">Gilles Pedroza Leite</a>
 
 ## Descrição
+<br>
 
 <p align="center">
 <img src="imagens/Axis LOGO.png" alt="Axis Defense" border="0">
