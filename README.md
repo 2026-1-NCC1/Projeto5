@@ -24,8 +24,9 @@
 <br>
 <br>
 
-
-
+<p align="center">
+Imagem gerada por IA - GPT Image 2
+</p>
 
 Axis Defense é um survival shooter com ritmo acelerado, ambientado no espaço profundo. O jogador assume o papel de tripulante da nave estelar Axis, que foi interceptada por uma frota de naves alienígenas inimigas. Sem possibilidade de fuga, a premissa central é resistir ao cerco o maior tempo possível, defendendo a embarcação até que a fuga seja possível.
 <br><br>
